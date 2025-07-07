@@ -1,4 +1,4 @@
-# 🚗 Real-Time Parking Pricing – Summer Analytics 2025 Capstone Project
+# Real-Time Parking Pricing – Summer Analytics 2025 Capstone Project
 
 This project is built as part of **Summer Analytics 2025**, hosted by **Consulting & Analytics Club × Pathway**.
 
